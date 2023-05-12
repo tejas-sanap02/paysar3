@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "856597764940",
+    "project_id": "paysar-b8a0f",
+    "storage_bucket": "paysar-b8a0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856597764940:android:7edeef6be748ec4dce4de9",
+        "android_client_info": {
+          "package_name": "app.example.paysar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856597764940-d4r5n065n54o3svbptqhoceek8p7g79o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.example.paysar",
+            "certificate_hash": "e9c3ae4383bb90c75d26c1c4229b3683acef9ae6"
+          }
+        },
+        {
+          "client_id": "856597764940-4f4rdcd1k6psq60ejmiad6k9s4cec695.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCrLr_snnEXoCNRb6nX_NHM0ZAW9lspA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856597764940-4f4rdcd1k6psq60ejmiad6k9s4cec695.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856597764940-vo0ug65t8kn6ivfp7bilsmdhs6dvs3o4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paysar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856597764940:android:e8f5d94ce9062bbdce4de9",
+        "android_client_info": {
+          "package_name": "com.example.paysar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856597764940-nvt2l3u33i3fpkkj62un5jpah66tuj02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paysar",
+            "certificate_hash": "e9c3ae4383bb90c75d26c1c4229b3683acef9ae6"
+          }
+        },
+        {
+          "client_id": "856597764940-4f4rdcd1k6psq60ejmiad6k9s4cec695.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCrLr_snnEXoCNRb6nX_NHM0ZAW9lspA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856597764940-4f4rdcd1k6psq60ejmiad6k9s4cec695.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856597764940-vo0ug65t8kn6ivfp7bilsmdhs6dvs3o4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paysar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
